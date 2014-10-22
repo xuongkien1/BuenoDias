@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bueno dias!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name = "caption">&lt;b>The &lt;/b> Lighter &lt;b> Side&lt;/b></string>
+	<string name="typeface_Jellyka_Estrya_Handwriting">font/Jellyka_Estrya_Handwriting.ttf</string>
+</resources>
